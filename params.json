@@ -1,0 +1,6 @@
+{
+  "name": "Threadpool",
+  "tagline": "简单的线程池、进程池应用",
+  "body": "### Welcome to GitHub Pages.\r\n简单的线程池、进程池应用\r\n\r\nprocesspoolserver.c是服务端的进程池实现服务于多个客户\r\n processpoolclient.c是客户端与processpoolserver.c进行通信 \r\npthreadcopyfile.c 是实现内存映射多线程大文件复制 \r\npthreadpool.c是实现一个简单的线程池 \r\npthreadpoolcopyfile.c实现线程池分块复制大文件\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
